@@ -18,7 +18,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java"/>
   <img src="https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python"/>
   <img src="https://img.shields.io/badge/-Vue.js-29beb0?style=flat-square&logo=vue.js"/>
-  <img src="https://img.shields.io/badge/-React-29beb0?style=flat-square&logo=React"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript"/>
   <img src="https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql"/>
@@ -26,6 +25,6 @@ Here are some ideas to get you started:
 </div>
 <hr/>
 <div align="center">
-  <img  src="https://github-profile-trophy.vercel.app/?username=wf-s&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
-<br/>
+  <img  src="https://github-profile-trophy.vercel.app/?username=wf-s&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" />
+</div>
 
