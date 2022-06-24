@@ -1,7 +1,7 @@
 
 
 <div align="center">Hi 👋</div>
-<div align=center>
+<!-- <div align=center>
   <img src="https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java"/>
   <img src="https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python"/>
   <img src="https://img.shields.io/badge/-Vue.js-29beb0?style=flat-square&logo=vue.js"/>
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql"/>
   <img src="https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker"/>
 </div>
-<hr/>
+<hr/> -->
 
 <div align="center">
   
